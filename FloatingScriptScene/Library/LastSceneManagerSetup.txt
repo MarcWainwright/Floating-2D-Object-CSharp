@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/FloatScene.unity
+  isLoaded: 1
+  isActive: 1
